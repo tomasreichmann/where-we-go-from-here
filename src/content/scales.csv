@@ -1,0 +1,6 @@
+"id","label","meaning","min","max","value","prompt"
+"employment","Employment","Livelihoods from selling skills and services","0","12","5","Illustrative range/value; exact thresholds remain unresolved."
+"welfare","Welfare","Well-being and public support","0","12","7","Illustrative range/value; exact thresholds remain unresolved."
+"wealth","Wealth","Shared material wealth","0","12","6","Illustrative range/value; exact thresholds remain unresolved."
+"energy","Energy","Available energy","0","12","8","Illustrative range/value; exact thresholds remain unresolved."
+"climate","Climate","Dangerous cold to dangerous heat","0","12","8","Illustrative range/value; exact thresholds remain unresolved."
