@@ -1223,7 +1223,7 @@ figcaption {
   flex: none;
 }
 .world-middle {
-  height: 170px;
+  height: 180px;
   flex: none;
 }
 .nations-region {
@@ -1241,7 +1241,7 @@ figcaption {
 }
 .card-preview {
   padding: 7px;
-  height: 84px;
+  height: 96px;
   gap: 5px;
   border-top-width: 3px;
 }
